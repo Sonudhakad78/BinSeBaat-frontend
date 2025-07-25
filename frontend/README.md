@@ -1,8 +1,40 @@
-# React + Vite
+# BinSeBaat 🚮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BinSeBaat is a smart society waste complaint management platform built with the MERN stack. It allows residents to raise garbage-related complaints, track their status, and contribute to cleanliness drives. The app includes image uploads, admin dashboard, Razorpay integration, and JWT-based authentication.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [https://binsebaat.vercel.app](https://binsebaat.vercel.app)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📦 Tech Stack
+
+- **Frontend**: React.js + Vite + Tailwind CSS
+- **Backend**: Node.js + Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+- **Payment Integration**: Razorpay
+- **Hosting**: Vercel (Frontend), Render/Railway (Backend)
+
+---
+
+## 🚀 Features
+
+- ✍️ Register and track waste complaints
+- 🔒 JWT-based login system
+- 🖼️ Upload images with complaints
+- 👨‍💼 Role-based admin dashboard
+- 💳 Online donations via Razorpay
+- 📱 Fully responsive UI (mobile friendly)
+
+---
+
+## 👨‍💻 Developed by
+
+**Sonu Dhakad**  
+📧 [dhakadsonu219@gmail.com](mailto:dhakadsonu219@gmail.com)  
+
+---
+
+## 🪪 License
+
+This project is licensed under the MIT License.
